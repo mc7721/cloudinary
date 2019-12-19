@@ -1,0 +1,93 @@
+{
+    "name": "Cloudinary",
+    "description": "Manage web and mobile media assets with the leading cloud service: image and video upload, storage, manipulation, optimization and digital asset management.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1039-cloudinary.jpg",
+    "tags": [
+        "api provider",
+        "cloud",
+        "content",
+        "have api",
+        "images",
+        "local",
+        "media management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cloudinary\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cloudinary",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1039-cloudinary.jpg",
+            "humanURL": "http:\/\/cloudinary.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cloudinary-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.cloudinary.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/cloudinary.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/CloudinaryBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/cloudinary"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cloudinary"
+        },
+        {
+            "type": "Email",
+            "url": "support@cloudinary.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@cloudinary.com"
+        },
+        {
+            "type": "Email",
+            "url": "noa@cloudinary.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@cloudinary.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@cloudinary.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/cloudinary"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/cloudinary.com\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cloudinary"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/cloudinary.com"
+        }
+    ]
+}
